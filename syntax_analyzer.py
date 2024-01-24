@@ -5,8 +5,6 @@
 
 import sys
 
-
-
 class SyntaxAnalyzer:
     def __init__(self):
         self.stack = []
